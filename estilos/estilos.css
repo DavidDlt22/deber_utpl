@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+
+.centrar {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fondo{
+    background-color: #035d91;
+}
+
+.titulo{
+    margin-top: 50px;
+    margin-bottom: -200px;
+    text-align: center;
+}
